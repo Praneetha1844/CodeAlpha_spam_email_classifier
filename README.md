@@ -1,4 +1,4 @@
-# spam_email_classifier
+# CodeAlpha_spam_email_classifier
 
 Data Collection:
 
